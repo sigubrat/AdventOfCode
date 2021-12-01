@@ -1,6 +1,8 @@
 # AdventOfCode
 My answers to the Advent of Code calendar
 
+Note: This code was made just for fun, usually without any solid documentation and ignoring best practices. 
+
 https://adventofcode.com/
 
 From their about-page: 
